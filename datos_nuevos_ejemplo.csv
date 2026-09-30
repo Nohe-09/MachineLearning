@@ -1,0 +1,6 @@
+servicio,cargo,clase_uso,municipio,mes_num
+Agua Potable,Cargo Variable,Estrato 5,Turbo,3
+Agua Potable,Cargo Fijo,Industrial,San Jerónimo,2
+Agua Residual,Cargo Fijo,Estrato 1,Apartadó,5
+Agua Residual,Cargo Fijo,Comercial,Sopetrán,2
+Agua Potable,Cargo Variable,Comercial,Sopetrán,4
